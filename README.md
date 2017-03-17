@@ -1,5 +1,13 @@
 ## 蒙特卡罗(Monte Carlo)估计
 
+- 蒙特卡洛算法理论基础是概率论，实际就是暴力计算逼近理想结果。
+
+- 此算法诞生的背景是：
+  - 曼哈顿计划，有极大的计算需求。
+  - 计算机刚开始发展，最适合做计算。
+  
 - 基本思想：当所求解问题是某种随机事件出现的概率，或者是某个随机变量的期望值时，通过某种“实验”的方法，以这种事件出现的频率估计这一随机事件的概率，或者得到这个随机变量的某些数字特征，并将其作为问题的解。
 
-[阿里笔试题](MonteCarlo_estimation_ali.ipynb)
+[1.阿里笔试题](MonteCarlo_estimation_ali.ipynb)
+[2.计算曲线下的面积](MonteCarlo_estimation_area_cal.ipynb)
+[3.计算圆周率](MonteCarlo_estimation_pi_cal.ipynb)
