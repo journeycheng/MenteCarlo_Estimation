@@ -8,6 +8,9 @@
   
 - 基本思想：当所求解问题是某种随机事件出现的概率，或者是某个随机变量的期望值时，通过某种“实验”的方法，以这种事件出现的频率估计这一随机事件的概率，或者得到这个随机变量的某些数字特征，并将其作为问题的解。
 
-[1.阿里笔试题](MonteCarlo_estimation_ali.ipynb)
+- 三个例题
+[1.2017阿里编程题](MonteCarlo_estimation_ali.ipynb)
+
 [2.计算曲线下的面积](MonteCarlo_estimation_area_cal.ipynb)
+
 [3.计算圆周率](MonteCarlo_estimation_pi_cal.ipynb)
